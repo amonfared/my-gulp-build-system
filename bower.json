@@ -1,0 +1,22 @@
+{
+  "name": "my-gulp-build-system",
+  "version": "0.1.0",
+  "description": "My own starter build system",
+  "authors": [
+    "Abbas Monfared"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "dist",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "normalize.css": "~3.0.2"
+  }
+}
